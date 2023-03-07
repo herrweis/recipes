@@ -16,7 +16,7 @@
 - 1 tblsp ketchup
 - 1 tblsp honey
 - ~800ml Stock (Kombu or Dashi)
-- Japanese Curry Mix (https://www.saorijapanesesauce.com.au/product/49)
+- _optional_ Japanese Curry Mix (https://www.saorijapanesesauce.com.au/product/49)
 
 ## Method
 ![Image 1](/images/battleship/01.jpg)
@@ -47,7 +47,7 @@ Bring to a boil, turn the heat down and let it simmer for about 20 minutes
 Add the Capsicum and let it simmer for another 10 – 20 minutes
 
 ![Image 11](/images/battleship/11.jpg)
-Bring to back to a high heat and add the Japanese Curry Mix
+Bring to back to a high heat and add the Japanese Curry Mix if using one
 
 ![Image 12](/images/battleship/12.jpg)
 Serve on rice — I abandoned the vegan part at this point and served it with chicken katsu and pickled cucumbers (https://www.justonecookbook.com/sunomono-with-cucumber-and-wakame/)
